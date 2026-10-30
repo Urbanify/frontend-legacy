@@ -5,5 +5,11 @@
       "dest": "/",
       "status": 200
     }
-  ]
+  ],
+  "git": {
+    "deploymentEnabled": {
+      "**": false,
+      "main": true
+    }
+  }
 }
